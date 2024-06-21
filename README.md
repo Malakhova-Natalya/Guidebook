@@ -1,9 +1,11 @@
 # 👩‍💻 Guidebook 🗃️🗃️
 
 
+
 🗂️ Простые объяснения ✒️ 
 
 Это папка внутри репозитория Guidebook. [Здесь](https://github.com/Malakhova-Natalya/Guidebook/tree/main/Simple_explanations) будут собираться простые и наглядные объяснения важных вещей в мире data engeneering.  
+
 
 
 ### 🗃️ [IT_courses](https://github.com/Malakhova-Natalya/IT_courses)
