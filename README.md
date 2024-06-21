@@ -40,5 +40,5 @@
 ------------------------
 
 Напоследок, чтобы знакомство было полным:
-- тг-канал ["Дневник аналитика"](t.me/diary_musician_analyst)
+- мой тг-канал ["Дневник аналитика"](t.me/diary_musician_analyst)
 - [Хабр](https://habr.com/ru/users/Malakhova-Natalya/publications/articles/)
