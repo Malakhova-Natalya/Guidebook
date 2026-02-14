@@ -13,15 +13,21 @@
 Конспекты, мои разборы-отзывы, иногда мои решения, сертификаты с различных IT курсов. Два больших курса - Яндекс Практикум и Data Learn - имеют свои отдельные репозитории. Остальные курсы собраны здесь.
 
 
-### 🗃️ [Snippets](https://github.com/Malakhova-Natalya/Snippets) ✒️ 
+
+### 🗃️ [IT_books](https://github.com/Malakhova-Natalya/IT_books) ✒️ 
+Конспекты некоторых прочитанных мною книг на профессиональную тематику: моделирование данных (подходы Инмона, Кимбалла), инженерия, аналитика данных.
+
+
+
+### 🗃️ [Snippets](https://github.com/Malakhova-Natalya/Snippets) 
 Учебные/рабочие задачи, ситуации и пошаговые подходы к их решению.
 
 
-### 🗃️ [My_open_textbook](https://github.com/Malakhova-Natalya/My_open_textbook) ✒️    
+### 🗃️ [My_open_textbook](https://github.com/Malakhova-Natalya/My_open_textbook)    
 Мой открытый учебник. Здесь объясняю сама себе что есть что в мире аналитики и дата-инженерии.
 
 
-### 🗃️ [Personal_project](https://github.com/Malakhova-Natalya/Personal_project) ✒️ 
+### 🗃️ [Personal_project](https://github.com/Malakhova-Natalya/Personal_project) 
 Мои личные проекты (pet-projects). Они выполнены в основном за время обучения в Яндекс Практикуме и сразу после него + иногда (редко) этот репозиторий пополняется.
 
 
