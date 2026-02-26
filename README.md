@@ -28,7 +28,7 @@
 
 
 ### 🗃️ [Personal_project](https://github.com/Malakhova-Natalya/Personal_project) 
-Мои личные проекты (pet-projects). Они выполнены в основном за время обучения в Яндекс Практикуме и сразу после него + иногда (редко) этот репозиторий пополняется.
+Мои личные проекты (pet-projects). Они выполнены в основном за время обучения в Яндекс Практикуме и сразу после него.
 
 
 ### 🗃️ [Data_Learn](https://github.com/Malakhova-Natalya/Data_Learn)
